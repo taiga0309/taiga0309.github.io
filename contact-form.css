@@ -62,3 +62,10 @@ nav{
     border-bottom: 3px gray solid;
     padding: 1rem;
 }
+
+.picture {
+    width: 2rem; 
+    height: 1rem; 
+    border: red solid 3px; 
+
+}
