@@ -54,6 +54,7 @@ nav{
      display:flex; 
      flex-flow:row wrap;
      justify-content:start; 
+     margin-right: 2rem;
 }
 .heading  {
     display:flex; 
